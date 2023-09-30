@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">principal</string>
+    <string name="titulo1">Programando Android</string>
+    <string name="titulomenu">Menu Principal</string>
+    <string name="Sumanum">Suma de Dos Numeros</string>
+    <string name="tnum1">Ingrese el primer valor</string>
+    <string name="tnum2">Ingrese el segundo valor</string>
+</resources>
